@@ -1,0 +1,97 @@
+body {
+	font-family: sans-serif;
+	box-sizing: border-box;
+	background-image: url("maria.jpg");
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    
+    
+}
+.contact-form {
+	padding-top: 6rem;
+}
+
+form {
+	width: 19rem;
+	height: 29rem;
+	border:  white;
+	text-align: center;
+	padding-top: 1rem;
+	margin: 0 auto;
+	background-color: white;
+	border-radius: 0.7rem;
+	border: solid;
+	background:url("martina.jp");
+	background-position: center;
+	background-size: 19rem;
+	opacity: 90%;
+	background-color: black;
+}
+h5 {
+	display: inline;
+	font-size: xx-large;
+	font-weight: 1000;
+	color: white;
+	text-shadow: 2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black;
+}
+label {
+	font-size: large;
+	font-weight: 600;
+	color: whitesmoke;
+	text-shadow: 2px 2px 7px black, 2px 2px 7px black,2px 2px 7px black,
+	2px 2px 7px black,2px 2px 7px black,2px 2px 7px black,2px 2px 7px black;
+}
+
+input {
+	width:  15rem;
+	height: 1.6rem;
+	font-size: large;
+	color: white;
+	background-color: dimgrey;
+	border: none;
+	opacity: 100%;
+}
+
+#boton {
+	width: 13rem;
+	height: 2.2rem;
+	border:  none;
+	transition: 150ms ease-in-out all;
+	background-color: gray;
+	color: white;
+	font-weight: 800;
+}
+#boton:hover {
+	background: darkslategray;
+}
+
+a {
+	color: skyblue;
+	transition: 150ms ease-in-out all;
+	text-shadow: 4px 2px 10px white,
+	             4px 2px 10px white;
+	border: none;
+	font-weight: 500;
+
+}
+a:hover {
+	color: darkred;
+}
